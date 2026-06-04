@@ -23,7 +23,7 @@ The project demonstrates low-level programming concepts including file handling,
 
 ## Project Structure
 
-- `code 1.txt` – Main Assembly source code
+- `code 1.asm` – Main Assembly source code
 - `synonyms.txt` – Dataset containing synonym mappings
 - `antonyms.txt` – Dataset containing antonym mappings
 
